@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Service\bin\Debug\Service.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Service\bin\Debug\Service.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Service\bin\Debug\Model.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Service\bin\Debug\Model.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Service\obj\Debug\Service.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Service\obj\Debug\Service.pdb

@@ -1,0 +1,10 @@
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\obj\Debug\Networking.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\bin\Debug\Networking.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\bin\Debug\Networking.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\bin\Debug\Model.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\bin\Debug\Service.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\bin\Debug\Model.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\bin\Debug\Service.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\obj\Debug\Networking.csproj.CopyComplete
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\obj\Debug\Networking.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Networking\obj\Debug\Networking.pdb

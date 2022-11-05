@@ -1,0 +1,13 @@
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\Persistence.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\Persistence.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\Model.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\System.Data.SQLite.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\Model.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\log4net.xml
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\System.Data.SQLite.xml
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\obj\Debug\Persistence.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\obj\Debug\Persistence.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\Persistence\bin\Debug\Persistence.dll.config

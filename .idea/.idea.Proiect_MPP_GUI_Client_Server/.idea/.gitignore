@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Proiect_MPP_GUI_Client_Server.iml
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI_Client_Server\.idea\.idea.Proiect_MPP_GUI_Client_Server\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

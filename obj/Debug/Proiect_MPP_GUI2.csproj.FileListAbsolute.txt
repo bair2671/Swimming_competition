@@ -1,0 +1,17 @@
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\bin\Debug\Proiect_MPP_GUI2.exe.config
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\bin\Debug\Proiect_MPP_GUI2.exe
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\bin\Debug\Proiect_MPP_GUI2.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\bin\Debug\System.Data.SQLite.dll
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\bin\Debug\log4net.xml
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\bin\Debug\System.Data.SQLite.xml
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.Properties.Resources.resources
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.csproj.CopyComplete
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.exe
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.pdb
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.FormHome.resources
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.FormLogin.resources
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.FormParticipanti.resources
+C:\Users\MSI\Desktop\Informatica\Anul II\MPP\C#\Proiect_MPP_GUI2\obj\Debug\Proiect_MPP_GUI2.FormInscriere.resources
